@@ -1,0 +1,12 @@
+#ifndef EVENT_H
+#define EVENT_H
+
+enum class Event
+{
+	VEHICLE_DESTROY_EVENT,
+	VEHICLE_SPAWN_EVENT,
+	PLAYER_SPAWN_EVENT,
+	MESSAGE_EVENT
+};
+
+#endif

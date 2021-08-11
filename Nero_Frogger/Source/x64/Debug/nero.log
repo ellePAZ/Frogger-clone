@@ -1,0 +1,2 @@
+﻿Log.obj : error LNK2019: unresolved external symbol "public: virtual __cdecl Log::~Log(void)" (??1Log@@UEAA@XZ) referenced in function "public: virtual void * __cdecl Log::`scalar deleting destructor'(unsigned int)" (??_GLog@@UEAAPEAXI@Z)
+D:\C++ projects\Nero_Frogger\Source\x64\Debug\nero.exe : fatal error LNK1120: 1 unresolved externals
